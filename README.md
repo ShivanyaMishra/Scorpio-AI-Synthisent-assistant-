@@ -48,6 +48,10 @@ The tool is designed to act as a lightweight, offline virtual assistant that can
 - "Search Python on Google"  
 - "Who are you?"  
 - "Good morning"
+- "Manage the file"
+- "Shutdown pc"
+- "JOKES"
+- "SCHEDULE FIXER"
 
 ---
 
