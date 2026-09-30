@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="button">
+    <file>INTERFACE PICS/generate-ai-button-user-interface-260nw-2480615587.png</file>
+    <file>../../OneDrive/Desktop/INTERFACE PICS/d728264b7433e62b7c4572c8d129e9be.gif</file>
+    <file>../../Downloads/pngtree-futuristic-internet-speed-meter-dial-with-neon-gauge-and-arrow-png-image_6398927-removebg-preview.png</file>
+    <file>../../OneDrive/Desktop/INTERFACE PICS/1233.jpg</file>
+    <file>../../Downloads/654654654-removebg-preview.png</file>
+    <file>INTERFACE PICS/start button .png</file>
+    <file>INTERFACE PICS/start-stop-engin-button-3d-600nw-1685316652.webp</file>
+  </qresource>
+  <qresource prefix="new">
+    <file>start_button_-removebg-preview.png</file>
+    <file>111654-removebg-preview.png</file>
+    <file>login-button-png-1-removebg-preview.png</file>
+    <file>654654654-removebg-preview.png</file>
+  </qresource>
+</RCC>
